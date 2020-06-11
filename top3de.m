@@ -249,7 +249,7 @@ end
 % The code is intended for replication of results in the papaer            %
 % "Wang, B., Zhou, Y., Tian, K. et al. Novel implementation of extrusion   %
 % constraint in topology optimization by Helmholtz-type anisotropic filter.% 
-% Structural and Multidisciplinary Optimization (2020)."                   %                %
+% Structural and Multidisciplinary Optimization (2020)."                   % 
 %                                                                          %
 % This code is modified from the following codes include                   %
 % TOP88, TOP82 in "Andreassen, Erik, et al. Efficient topology             %
